@@ -1,0 +1,12 @@
+id,name,min_area,overhead_clearance,max_floor_loading,water_and_drains,compressed_air,special_ventilation,special_electrification,min_width
+1,Fittings Storage,550,12,250,,,,,
+2,Valve Storage,600,12,250,,,,,
+3,Hi-value Item Storage,500,10,150,,,,,
+4,Tubing Storage,250,12,150,,,,,
+5,Misc. Supplies Storage,800,12,150,,,,,
+6,Floor Dry,300,12,200,,,,,
+7,Fabricating Shop,400,14,200,E,E,O,I,
+8,Wrap Pack and Trash Accumulation,200,12,150,,,,,
+9,Office,150,9,150,O,,,,10
+10,Dock Area,100,12,250,,,,,
+11,Rest Room,75,9,150,A,,O,,6
